@@ -1,0 +1,398 @@
+[  {
+    "Ans": "C",
+    "question": "Tất cả những điều sau đều là nhân tố trong đánh giá rủi ro dự án, ngoại trừ: ",
+    "options": [
+      ["A", "A. Sự kiện rủi ro"],
+      ["B", "B. Xác suất rủi ro"],
+      ["C", "C. Số tiền rủi ro (amout at stake)"],
+      ["D", "D. Chi phí bảo hiểm"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu một dự án có 60% cơ hội kiếm được 100000$ và có 40% cơ hội mất 100000$, giá trị tiền tệ dự kiến cho dự án là: ",
+    "options": [
+      ["A", "A. Thu được 100000$ "],
+      ["B", "B. Mất đi 60000$ "],
+      ["C", "C. Thu được 20000$ "],
+      ["D", "D. Mất đi 40000$"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Cho rằng 2 đầu của dải các ước tính trung bình là +/-3sigma, dải ước tính nào dưới đây bao gồm ít rủi ro nhất? ",
+    "options": [
+      ["A", "A. 30 ngày, cộng trừ 5 ngày"],
+      ["B", "B. Từ 22-30 ngày"],
+      ["C", "C. Optimistic=26days, most likely=30days, pessimistic=33days"],
+      ["D", "D. 28 ngày"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Sự kiện rủi ro nào dưới đây gây trở ngại cho việc đạt tới mục tiêu lịch thực hiện dự án nhất? ",
+    "options": [
+      ["A", "A. Chậm trễ trong việc có được các phê chuẩn được yêu cầu"],
+      ["B", "B. Tăng đáng kể chi phí mua nguyên vật liệu"],
+      ["C", "C. Tranh chấp hợp đồng sinh ra các yêu sách tăng thanh toán"],
+      [
+        "D",
+        "D. Cuộc họp đã được lên kế hoạch để xem lại việc thực hiện k đúng thời hạn"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu 1 rủi ro có 20% cơ hội xảy ra trong 1 tháng cho trước, và dự án dự kiến kéo dài 5 tháng, xác suất mà sự kiện rủi ro này sẽ xảy ra trong tháng thứ 4 của dự án là bn? ",
+    "options": [
+      ["A", "A. Ít hơn 1% "],
+      ["B", "B. 20%"],
+      ["C", "C. 60% "],
+      ["D", "D. 80%"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Nếu một sự kiện rủi ro có 90% cơ hội xảy ra, và hậu qua là 10000$, tương ứng với 90000$ là:",
+    "options": [
+      ["A", " Giá trị rủi ro"],
+      [
+        "B",
+        " Giá trịhiện tại (present value- giá trịhiện tại của dòng tiền mặt sẽ đem lại lượng giá trịquay vòng vốn đầu tưnhất định trong tương lai"
+      ],
+      ["C", "Giá trịtiền tệ dự kiến"],
+      ["D", "Ngân sách ngẫu nhiên"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Các rủi ro sẽ được xcá định trong các quá trình quản lýrủi ro nào?",
+    "options": [
+      ["A", "Phân tích định lượng rủi ro và xác định rủi ro"],
+      ["B", "Xác định rủi ro và kiểm soát rủi ro"],
+      ["C", "Xác định rủi ro và kiểm soát rủi ro"],
+      ["D", "Xác định rủi ro"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều gì nên được hoàn thành với những rủi ro trong danh sách theo dõi (watchlist)",
+    "options": [
+      [
+        "A",
+        "Ghi lại chúng cho các thông tin lịch sử để sử dụng trong các dự án kháC"
+      ],
+      ["B", " Ghi lại chúng và xem lại trong quá trình thực hiện dựán"],
+      [
+        "C",
+        " Ghi lại chúng và đểsang một bên vì chúng đã có trong kếhoạch đối phó với sự kiện ngẫu nhiên"
+      ],
+      ["D", "Ghi lại chúng và đưa cho khách hàng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cảnhững điều sau luôn là đầu vào cho quá trình quản lýrủi ro, ngoại trừ:",
+    "options": [
+      ["A", "Các thông tin lịch sự"],
+      ["B", "Các bài học rút ra"],
+      ["C", " WBS"],
+      ["D", "Báo cáo trạng thái dựán"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Khả năng chấp nhận rủi ro được xác định đểgiúp: ",
+    "options": [
+      ["A", "Đội dự án xếp loại được các rủi ro dựán"],
+      ["B", "PM ước tính dự án"],
+      ["C", "Đội dự án lên lịch trình dựán."],
+      [
+        "D",
+        "Ban lãnh đạo biết được những người quản lý khác sẽ hành động trong dự án ntn"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tất cảnhững điều sau có 1 kết quảchung của quản lýrủi ro, ngoại trừ ",
+    "options": [
+      ["A", "Các điều kiện và điều khoản trong hợp đồng được tạo ra"],
+      ["B", "Kế hoạch quản lý dự án được thay đổi"],
+      ["C", "Kế hoạch quản lý truyền thông được thay đổi"],
+      ["D", "Tôn chỉ dự án được thay đổi"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bảo hiểm mua bán được xem xét tốt nhất nhưlà một ví dụvềloại rủi ro nào?",
+    "options": [
+      ["A", "Sách dự án"],
+      ["B", "Bảng kê công việc (SOW)"],
+      ["C", "Tài liệu vai trò và trách nhiệm. "],
+      ["D", "Sách chỉ dẫn các thủ tục và chính sách của công ty"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang thấy rằng thật khó để ước lượng chính xác chi phí sẽ ảnh hưởng bởi rủi ro. Bạn nên ước lượng với:",
+    "options": [
+      ["A", "Cơ sở định lượng"],
+      ["B", "Cơ sở số học"],
+      ["C", "Cơ sở định tính"],
+      ["D", "Cơ sở kinh tế"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Đầu ra của kếhoạch đối phó rủi ro (risk response planning) là: ",
+    "options": [
+      ["A", " Số dư Rủi ro"],
+      ["B", "Các rủi ro được xác định"],
+      ["C", "Danh sách ưu tiên của các rủi ro"],
+      ["D", " Các ảnh hưởng được xác định"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " Việc khắc phục (workaround) được xác định trong quá trình quản lýrủi ro nào? ",
+    "options": [
+      ["A", " Xác định rủi ro"],
+      ["B", "Phân tích định lượng rủi ro"],
+      ["C", "Kế hoạch đối phó rủi ro"],
+      ["D", "Kiểm soát rủi ro"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong quá trình quản lýrủi ro nào là nhân tốxác định chuyển giao một loại rủi ro (risk made)",
+    "options": [
+      ["A", " Xác định rủi ro"],
+      ["B", "Phân tích định lượng rủi ro"],
+      ["C", "Kế hoạch đối phó rủi ro"],
+      ["D", "Kiểm soát rủi ro"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM vừa hoàn thành kế hoạch đối phó rủi ro cho 1 dựán kỹ thuật có kinh phí 387000$. Điều nào dưới đây anh ta nên làm tiếp theo? ",
+    "options": [
+      ["A", " Xác định tỷlệ rủi ro tổng thể cho toàn dựán"],
+      [
+        "B",
+        "Bắt đầu phân tích rủi ro và chỉra trong phác thảo dựán (project drawing)"
+      ],
+      ["C", "Thêm các gói công việc vào bảng WBS"],
+      ["D", "Tổ chức đánh giá lại rủi ro dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM hỏi nhiều bên có liên quan đểxác định xác suất và ảnh hưởng của một sốrủi ro. Anh ta sau đó đã phân tích các giảthuyết. Anh ta đang chuyển sang bước tiếp theo của quản lýrủi ro. Dựa vào các thông tin trên, PM đã QUÊN không làm gì? ",
+    "options": [
+      ["A", "Ước lượng xu hướng trong phân tích rủi ro"],
+      ["B", "Xác định các yếu tốkích hoạt rủi ro (triggers)"],
+      ["C", "Cung cấp ma trận tỷlệ rủi ro tiêu chuẩn"],
+      ["D", "Tạo ra kếhoạch dựphòng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM tập hợp đội dựán lại, xác định 56 rủi ro trong dựán, xác định các yếu tốkích hoạt rủi ro, xếp hạng trong ma trận mức độrủi ro, kiểm tra các giảthiết và ước lượng chất lượng dữliệu sửdụng. Đội dựán vẫn tiếp tục chuyển sang quá trình quản lýrủi ro. PM đã quên không làm gì? ",
+    "options": [
+      ["A", "Mô phỏng rủi ro"],
+      ["B", "Làm giảm, làm nhẹ rủi ro"],
+      ["C", "Xếp hạng rủi ro tổng thể cho dự án"],
+      ["D", "Kéo theo các bên có liên quan tới dựán"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn là một PM cho một dựán xây dựng của một nhà máy sản xuất lớn mới và chưa từng làm trước đó. Chi phí dựán được ước tính là 30.000.000$ và sẽsửdụng 3 người bán. Một khi bắt đầu, dựán không thểxóa bỏ, và sẽcó một phí tổn lớn trong thiết bịvà nhà máy. Là PM của dựán này, điều quan trọng nhất phải thật cẩn thận là: ",
+    "options": [
+      ["A", "Xem xét lại tất cả đề nghịchi phí từ người bán. "],
+      ["B", "Kiểm tra ngân sách dự phòng."],
+      ["C", "Hoàn thành tôn chỉ dự án"],
+      ["D", " Thực hiện xác định các rủi ro. "]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong khi lên kếhoạch quản lýrủi ro, đội của bạn đã đưa ra 434 rủi ro và 16 nguyên nhân chính của các rủi ro này. Dựán là dựán cuối cùng trong chuỗi các dự án mà đội sẽlàm việc cùng nhau. Nhà tài trợrất khuyến khích và một khối lượng lớn thời gian đã được đầu tư đểchắc chắn tôn chỉdựán đã hoàn thành và được ký bởi tất cảcác bên có liên quan chính. Trong giai đoạn lập kếhoạch dựán, đội không đưa ra một cách thức hiệu quả đểlàm giảm hoặc thoát rủi ro. Nó không phải là công việc đểcó thểthuê ngoài hay bịloại bỏ. Giải pháp tốt nhất là: ",
+    "options": [
+      ["A", " Chấp nhận rủi ro"],
+      ["B", " Tiếp tục điều tra để làm giảm nhẹ rủi ro"],
+      ["C", "Tìm kiếm cách đểtránh rủi ro"],
+      ["D", "Tìm kiếm cách để chuyển rủi ro (transfer the risk)"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang định lượng rủi ro cho dựán của cô ấy. Cô ấy có nhiều chuyên môn bên ngoài, nhưng giá nhưcó thểsửdụng bên trong dựán. Điều này có thể được thực hiện ntn? ",
+    "options": [
+      ["A", "Sử dụng phân tích Monte Carlo sử dụng Internet như một công cụ"],
+      ["B", "Áp dụng phương pháp đường tới hạn"],
+      ["C", " Xác định các tùy chọn cho các hành động sửa lỗi khuyến nghị "],
+      ["D", "Áp dụng kỹ thuật Delphi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM nhiều kinh nghiệm vừa bát đầu làm việc trong một tổchức hợp nhất công nghệthông tin lớn. Quản lýcủa cô ấy cung cấp cho cô ta một bản nháp tôn chỉdựán và ngay lập tức yêu cầu cô ấy cung cấp phân tích vềrủi ro trong dựán. Điều nào dưới đây là tốt nhất có thể giúp đỡ PM? ",
+    "options": [
+      ["A", "Một bài báo từ tạp chí mạng PM"],
+      ["B", "Tuyên bố phạm vi dự án từ giai đoạn lên kế hoạch dự án"],
+      ["C", "Kế hoạch nguồn lực từ giai đoạn lên kế hoạch dự án"],
+      [
+        "D",
+        "Một cuộc nói chuyện với 1 nhân viên từ1 dựán tương tự đã thất bại trong quá khứ"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bạn được trang bịnhưmột người quản lýcủa một dựán lớn, mới và phức tạp. do dựán này là then chốt trong kinh doanh và rất rõ ràng (visible), các nhà quản lý cấp cao nói với bạn phân tích rủi ro dựán và chuẩn bịchiến lược đáp ứng rủi ro càng sớm càng tốt. Tổchức có quy trình quản lýrủi ro mà rất ít khi được sửdụng, và có lịch sửnắm bắt rủi ro kém. Điểm mốc đầu tiên của dựán là trong vòng 2 tuần nữa. Trong khi chuẩn bịkếhoạch đối phó rủi ro, đầu vào từ đâu thông thường là ít quan trọng nhất trong sốcác đáp án sau:",
+    "options": [
+      ["A", "Nhân viên đội dự án"],
+      ["B", "Nhà tài trợ dự án"],
+      [
+        "C",
+        "Những cá nhân có trách nhiệm với các chính sách và mẫu biểu quản lý rủi ro"
+      ],
+      ["D", "Các bên có liên quan chính"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn đang trong quá trình thực hiện một dựán 2 năm đểtriển khai các văn phòng dọc theo đất nước. một cơn bão gây ra mất điện khi việc nâng cấp đã gần hoàn thành. Khi có điện trởlại, toàn bộ báo cáo dựán và dữliệu lịch sử đã mất mà không có cách nào lấy lại được. Điều gì nên làm để giảm nhẹ rủi ro này? ",
+    "options": [
+      ["A", " Bảo hành mua bán"],
+      ["B", "Lên kế hoạch cho quỹ dự phònG"],
+      ["C", " Kiểm soát thời tiẾT và có kếhoạch đối phó với sựngẫu nhiên"],
+      ["D", "Lên lịch cho việc triển khai ngoài mùa mưa bão"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dựán phát triển hệthống đang gần tới ngày kết thúc, một rủi ro không xác định trước đây đã được khám phá ra. Điều này có khảnăng ảnh hưởng tới khả năng tổng thểcủa dựán đểgiao sản phẩm. điều nên làm tiếp theo là gì? ",
+    "options": [
+      [
+        "A",
+        "Báo động cho nhà tài trợdựán vềcác ảnh hưởng tiền năng tới chi phí, phạm vi, lịch trình"
+      ],
+      ["B", "Định tính rủi ro"],
+      ["C", " Làm giảm nhẹ rủi ro bằng cách xây dựng kếhoạch đối phó rủi ro"],
+      [
+        "D",
+        "Xây dựng việc khắc phục không nằm trong kếhoạch với rủi ro đang xảy ra (wordaround)"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "CPI=0.6, SPI=0.71. Dựán có 625 gói công việc và đang được hoàn thành trong giai đoạn hơn 4 năm. Nhân viên đội dựán rất thiếu kinh nghiệm và dựán nhận được ít hỗtrợcho các kếhoạch thích hợp. Điều nào dưới đây là tốt nhất đểthực hiện? ",
+    "options": [
+      ["A", " Cập nhật xác định rủi ro và phân tích"],
+      ["B", "Dành nhiều thời gian hơn để cải thiện ước tính chi phí."],
+      ["C", "Loại bỏcàng nhiều gói công việc càng tốt"],
+      ["D", " Tổ chức lại ma trận gán trách nhiệm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Trong khi chuẩn bịkếhoạch đối phó rủi ro, bạn xác định thêm 1 vài rủi ro. Bạn nên làm gì? ",
+    "options": [
+      [
+        "A",
+        "Thêm khoản dựphòng vào dựán đểxem xét các rủi ro mới và thông báo với ban lãnh đạo"
+      ],
+      [
+        "B",
+        "Ghi lại các mục rủi ro và tính toán giá trịtiền tệdựkiến dựa trên xác suất và ảnh hưởng từ kết quả của việc xảy ra rủi ro. "
+      ],
+      [
+        "C",
+        "Xác định các sự kiện rủi ro và các chi phí liên quan, sau đó thêm các chi phí này vào ngân sách dựán như một khoản dự phòng. "
+      ],
+      [
+        "D",
+        "Thêm 10% chi phí của sự bất ngờvào ngân sách dựán và thông báo với khách hàng"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn vừa được phân công làm PM cho một dựán truyền thông mới và đang bắt đầu vào giai đoạn thứ2 của dựán. Có khá nhiều rủi ro xuất hiện trong dựán, nhưng không có ai ước tính chúng để đánh giá khoảng kết quảcó thểxảy ra. Điều gì cần được hoàn thành?",
+    "options": [
+      ["A", " Kế hoạch quản lý rủi ro"],
+      ["B", "Kế hoạch định lượng rủi ro"],
+      ["C", "Kế hoạch đối phó rủi ro"],
+      ["D", "Kiểm soát rủi ro"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong giai đoạn thực thi dựán, một nhân viên xác định một rủi ro không có trong sổghi. Bạn nên làm gì?",
+    "options": [
+      [
+        "A",
+        "Lấy thêm nhiều thông tin xem làm thếnào nhân viên đó xác định được rủi ro, do bạn đã thực hiện phân tích chi tiết và không xác định được rủi ro này"
+      ],
+      [
+        "B",
+        "Không quan tâm tới rủi ro, do các rủi ro đã được xác định trong giai đoạn lên kế hoạch dựán"
+      ],
+      ["C", "Thông báo với khách hàng vềrủi ro này"],
+      ["D", "Phân tích rủi ro này"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong giai đoạn thực thi dựán, một vấn đềlớn xảy ra mà không có trong sổ ghi rủi ro. Bạn nên làm gì đầu tiên? ",
+    "options": [
+      [
+        "A",
+        "Tạo một bản đối phó với rủi ro không nằm trong kếhoạch (create a workaround)"
+      ],
+      ["B", "Ước tính lại quy trình xác định rủi ro"],
+      ["C", "Tìm kiếm cho các hậu quảkhông mong đợi của vấn đềnày"],
+      ["D", "Nói với ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Khách hàng yêu cầu thực hiện 1 thay đổi dựán mà sẽgia tăng rủi ro của dự án. Điều nào dưới đây bạn nên làm trước tất cảmọi người? ",
+    "options": [
+      [
+        "A",
+        "Tính đến giá trịtiền tệ dự kiến của rủi ro trong ước tính chi phí mới"
+      ],
+      ["B", "Nói với khách hàng về ảnh hưởng của thay đổi"],
+      ["C", "Phân tích ảnh hưởng của thay đổi cùng với đội dự án"],
+      ["D", " Thay đổi kếhoạch quản lý rủi ro"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều nào dưới đây là tính chất quan trọng của kỹthuật Delphi?",
+    "options": [
+      [
+        "A",
+        "Sự kết luận từ các bản ghi lịch sử từ các dự án đã thực hiện trước đó "
+      ],
+      ["B", "Ý kiến chuyên gia"],
+      ["C", "Quá trình phân tích theo cấp bậc"],
+      ["D", " Cách tiếp cận từ dưới lên. "]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một dựán có 1 vài vấn đề, nhưng vẫn trong khảnăng kiểm soát. Vào những tháng cuối của dựán, phần lớn các khoản dựphòng đã được sửdụng và phần lớn các ảnh hưởng tiêu cực của các sựkiện được dựbáo trước đều đã xảy ra. Có 4 hoạt động còn sót lại và 2 hoạt động trong số đó nằm trên đường tới hạn. Ban lãnh đạo đã thông báo với PM rằng công ty thích hoàn thành dựán sớm hơn 2 tuần theo lịch để nhận được thêm lợi nhuận. Đểphản hồi lại, PM gửi một yêu cầu đềxuất cho 1 vài công việc đội dựán chuẩn bịlàm, với hi vọng một công ty khác sẽhoàn thành công việc nhanh hơn. PM tốt nhất nên cố gắng đểlàm việc với",
+    "options": [
+      ["A", "Khoản dự phòng"],
+      ["B", " Các cơ hội. "],
+      ["C", "Xác minh phạm vi"],
+      ["D", "Các nguy cơ. "]
+    ]
+  }
+]

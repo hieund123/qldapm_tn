@@ -1,0 +1,451 @@
+[  {
+    "Ans": "D",
+    "question": "Cách thông thường để tính toán ước tính tại điểm hoàn thành (EAC) là lấy chi phí tài thời điểm hoàn thành (BAC) và:",
+    "options": [
+      ["A", "A. Chia cho SPI"],
+      ["B", "B. Nhân với SPI"],
+      ["C", "C. Nhân với CPI"],
+      ["D", "D. Chia cho CPI"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Ước tính tại điểm hoàn thành EAC là đánh giá định kỳ của:",
+    "options": [
+      ["A", " Chi phí hoàn thành công việc"],
+      ["B", " Giá trị của công việc được thực hiện"],
+      ["C", " Tổng chi phí dự kiến tại thời điểm hoàn thành dự án."],
+      ["D", " Chi phí sẽ hoàn thành công việc (what it will cost)"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nếu giá trị thu được (EV-earned value) là 350, chi phí thực tế(AC-actual value) là 400, giá trị dự tính (PV-planned value) là 325, chi phí phát sinh (CV-cost varience) là bao nhiêu?",
+    "options": [
+      ["A", "A. 350"],
+      ["B", "B. -75"],
+      ["C", "C. 400"],
+      ["D", "D. -50"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Sự mất cân bằng kép là gì?",
+    "options": [
+      ["A", "A. Khấu hao"],
+      ["B", "B. Sự giảm theo đường thẳng"],
+      ["C", "C. Sự giảm nhanh chóng"],
+      ["D", "D. Dự toán (or chi phí) vòng đời (life cycle costing)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Ước lượng tương tự là gì?",
+    "options": [
+      ["A", "Sử dụng kĩ thuật ước lượng từ dưới lên (bottom-up)"],
+      ["B", "Đc sử dụng thường xuyên nhất trong giai đoạn thực thi dự án"],
+      ["C", "Sử dụng kĩ thuật ước lượng từ trên xuống (top-down)"],
+      ["D", "Sử dụng chi phí chi tiết thực tế trong quá khứ"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chi phí của việc lựa chọn 1 dự án và từ bỏ dự án khác được gọi là:",
+    "options": [
+      ["A", "A. Chi phí cố định (fixed cost)"],
+      ["B", "B. Chi phí ngầm (sunk cost)"],
+      ["C", "C. Giá trị thực (net present value NPV)"],
+      ["D", "D. Chi phí cơ hội"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điểm chính nổi bật của đánh giá vòng đời là:",
+    "options": [
+      ["A", "A. Chi phí ước tính cài đặt"],
+      ["B", "B. Ước tính chi phí của thực hiện và bảo trì"],
+      ["C", "C. Xem xét chi phí cài đặt khi lên kế hoạch chi phí dự án"],
+      [
+        "D",
+        "D. Xem xét chi phí thực hiện và bảo trì khi lập quyết định trong dự án"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Việc đo hiệu suất chi phí tốt nhất nên được thực hiện theo cách nào dưới đây?",
+    "options": [
+      [
+        "A",
+        "Hỏi mỗi nhân viên dự án đã hoàn thành được bao nhiêu % công việc và báo cáo trong báo cáo tiến trình hàng tháng"
+      ],
+      [
+        "B",
+        "Tính toán giá trị thu được EV và sử dụng thông số và các tính toán khác để báo cáo hiệu năng đã thực hiện và dự đoán hiệu năng tương lai"
+      ],
+      [
+        "C",
+        "Sử dụng luật 50/50 và chắc chắn rằng chi phí vòng đời là ít hơn chi phí dự án"
+      ],
+      [
+        "D",
+        "Tập trung vào khối lượng sử dụng tháng trước và chi tiêu tháng tiếp theo"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chỉ số thực hiện chi phí CPI là 0.89 nghĩa là:",
+    "options": [
+      [
+        "A",
+        "Vào thời điểm này, chúng ta mong đời tổng chi phí dự án hơn 89% so với kế hoạch"
+      ],
+      [
+        "B",
+        " Khi dự án hoàn thành chúng ta sẽ sử dụng 89% hơn so với kế hoạch"
+      ],
+      ["C", "Dự án chỉ thực hiện 89% so với kế hoạch"],
+      ["D", " Dự án chỉ nhận được 89% chi phí so với kế hoạch đầu tư"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Chỉ số thực hiện lịch trình SPI là 0.76 nghĩa là: ",
+    "options": [
+      ["A", "Bạn đang chi tiêu quá ngân sách"],
+      ["B", "Bạn đang đi nhanh hơn kế hoạch"],
+      [
+        "C",
+        " Bạn đang chỉ thực hiện 76% của tỷ lệ ban đầu của kế hoạch (the rate originally planned)"
+      ],
+      ["D", "Bạn đang chỉ thực hiện 24% của tỷ lệ ban đầu của kế hoạch"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điều nào dưới đây không cần thiết khi đưa ra ước tính dự án?",
+    "options": [
+      ["A", "PA. WBS"],
+      ["B", "B. Sơ đồ mạng"],
+      ["C", "C. Các rủi ro"],
+      ["D", "D. Thủ tục kiểm soát thay đổi"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Điều nào dưới đây là một ví dụ của ước tính tham số? ",
+    "options": [
+      ["A", "A. Dollar per module"],
+      ["B", "B. Điểm nút học được (learning bend)"],
+      ["C", "C. Bottom-up"],
+      ["D", "D. CPM"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một phác thảo ước tính độ lớn được thực hiện trong giai đoạn nào của dự án?",
+    "options": [
+      ["A", "A. Lên kế hoạch"],
+      ["B", "B. Kết thúc"],
+      ["C", "C. Thực thi"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Chi phí thực tế nên gần (how close) với ước lượng ngân sách cuối cùng ntn?",
+    "options": [
+      ["A", "A. Từ -75% tới 25%"],
+      ["B", "B. Từ -10% tới 15%"],
+      ["C", "C. Từ 10% tới -25% "],
+      ["D", "D. -từ -5% tới 10%"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhân tố nào không nên được xem xét khi lựa chọn giữa 2 dự án để đảm nhận (undertake)?",
+    "options": [
+      ["A", "A. Giá trị thực NPV"],
+      ["B", "B. Tỷ lệ chi phí lợi ích (benefit cost ratio BCR)"],
+      ["C", "C. Thời gian thu hồi vốn đầu tư"],
+      ["D", "D. Luật lợi nhuận giảm dần."]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Nếu dự án A có giá trị thực NPV là 30000$ và dự án B có giá trị thực NPV là 50000$, chi phí cơ hội là gì khi lựa chọn dự án B",
+    "options": [
+      ["A", "A. 23000$"],
+      ["B", "B. 30000$"],
+      ["C", "C. 20000$"],
+      ["D", "D. 50000$"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Loại chi phí đào tạo đội dự án là:",
+    "options": [
+      ["A", "A. Trực tiếp"],
+      ["B", "B. NPV"],
+      ["C", "C. Gián tiếp"],
+      ["D", "D. Cố định"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Chi phí thiết lập dự án là một ví dụ về:",
+    "options": [
+      ["A", "A. Chi phí biến động"],
+      ["B", "B. Chi phí cố định"],
+      ["C", "C. Chi phí hoạt động (overhead costs)"],
+      ["D", "D. Chi phí cơ hội"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": " Phân tích giá trị được thực hiện để thu được cái gì? ",
+    "options": [
+      ["A", "A. Nhiều giá trị hơn từ phân tích chi phí"],
+      ["B", "B. Quyền quản lý với việc mua vào của dự án"],
+      ["C", "C. Đội để mua vào dự án"],
+      ["D", "D. Một cách ít tốn kém hơn để làm cùng một công việc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Ai có rủi ro về chi phí trong hợp đồng giá cố định? ",
+    "options": [
+      ["A", "A. Đội dự án"],
+      ["B", "B. Người mua"],
+      ["C", "C. Người bán"],
+      ["D", "D. Ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Điều nào dưới đây thể hiện giá trị ước tính của công việc đã hoàn thành thực tế?",
+    "options": [
+      ["A", " Giá trị thu được EV"],
+      ["B", "Giá trị dự tính PV (planned value)"],
+      ["C", "TChi phí thực tế AC"],
+      ["D", "Chi phí phát sinh CV (cost variance)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn có 4 dự án và phải chọn 1. Dự án A đang được thực hiện hơn 6 năm và có giá trị thực NPV là 70000$. Dự án B đang được thực hiện hơn 3 năm và có NPV là 30000$. Dự án C đang được thực hiện hơn 5 năm và có NPV là 40000$. Dự án D đang dc thực hiện hơn 1 năm và NPV là 60000$. Bạn sẽ chọn dự án nào?",
+    "options": [
+      ["A", "A. Dự án A"],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Dự án A có tỷ suất hoàn vốn nội bộ (internal rate of return -IRR) là 21%. Dự án B có IRR= 7%. Dự án C có IRR= 31%. Dự án D có IRR= 19%. Dự án tốt nhất là: ",
+    "options": [
+      ["A", "A. Dự án A"],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Là một PM, bạn được giới thiệu các thông tin sau về giá trị thực NPV của một vài dự án. Bạn sẽ lựa chọn dự án nào trong số các dự án dưới đây?",
+    "options": [
+      ["A", "A. Dự án A với NPV là 95000$"],
+      ["B", "B. Dự án B với NPV là 120000$"],
+      ["C", "C. Dự án C với NPV là 20000$"],
+      ["D", "D. Dự án D với NPV là -30000$"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Công ty của bạn có thể chấp nhận 1 trong 3 dự án sau: dự án A có NPV là 30000$ và cần 6 năm để hoàn thành, dự án B có NPV là 60000$ và cần 3 năm để hoàn thành, dự án C có NPV là 90000$ và cần 4 năm để hoàn thành. Dựa vào các thông tin trên, bạn sẽ chọn dự án nào để thực hiện?",
+    "options": [
+      ["A", "A. 3 dự án có giá trị như nhau"],
+      ["B", "B. Dự án A"],
+      ["C", "C. Dự án B"],
+      ["D", "D. Dự án C"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Người bán nói với bạn rằng các hoạt động của bạn gây ra việc tăng chi phí của họ. bạn nên làm gì?",
+    "options": [
+      ["A", "A. Đề nghị thay đổi đối với chi phí dự án"],
+      ["B", "B. Có buổi họp với ban lãnh đạo để xem nên làm gì"],
+      ["C", "C. Hỏi người bán về các thông tin hỗ trợ"],
+      ["D", "D. Từ chối mọi hành động sai"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Dự đoán chi phí chỉ ra rằng bạn sẽ bị vượt quá chi phí vào giai đoạn cuối của dự án. Bạn nên làm gì?",
+    "options": [
+      ["A", "A. Loại trừ các rủi ro trong ước tính và ước tính lại"],
+      ["B", "B. Gặp nhà tài trợ để tìm ra công việc nào nên được làm sớm hơn"],
+      ["C", "C. Cắt giảm chất lượng"],
+      ["D", "D. Giảm phạm vi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một dự án phát triển cửa hàng mới yêu cầu việc mua bán của nhiều thiết bị, máy móc và đồ đạc. Phòng ban có trách nhiệm cho việc phát triển vừa tập trung quy trình mua bán bên ngoài và tiêu chuẩn hóa hệ thống đặt hàng mới. Những thủ tục trên có trong tài liệu nào?",
+    "options": [
+      ["A", "A. Tuyên bố phạm vi dự án"],
+      ["B", "B. WBS"],
+      ["C", "C. Kế hoạch quản lý nhân lực"],
+      ["D", "D. Chính sách của tổ chức"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Vào giai đoạn đầu của dự án, bạn có buổi thảo luận với nhà tài trợ về các kỹ thuật ước lượng nên được sử dụng. Bạn muốn có đánh giá của chuyên gia, nhưng nhà tài trợ phản đối và muốn dùng ước tính tương tự. Tốt nhất nên làm gì?",
+    "options": [
+      ["A", "Đồng ý với ước tính tương tự như một đánh giá của chuyên gia"],
+      ["B", "Đề nghị đánh giá vòng đời như một thỏa hiệp"],
+      ["C", "Xác định tại sao nhà tài trợ muốn một ước tính chính xác như thế"],
+      [
+        "D",
+        "Cố gắng thuyết phục nhà tài trợ đồng { các đánh giá của chuyên gia do nó chính xác hơn"
+      ]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bạn vừa hoàn thành giai đoạn khởi tạo của một dự án nhỏ và đang bước sang giai đoạn lên kế hoạch khi một bên có liên quan tới dự án hỏi bạn về ngân sách dự án và đường chuẩn chi phí (cost baseline). Bạn nên nói gì? ",
+    "options": [
+      [
+        "A",
+        "Ngân sách dự án có thể được tìm thấy trong tôn chỉ dự án mới vừa hoàn thành"
+      ],
+      [
+        "B",
+        "Ngân sách dự án và đường chuẩn sẽ không được kết thúc và được chấp nhận cho đến khi giai đoạn lên kế hoạch hoàn tất"
+      ],
+      [
+        "C",
+        " Kế hoạch quản lý dự án sẽ không bao gồm ngân sách dự án và đường chuẩn, đây là một dự án nhỏ"
+      ],
+      [
+        "D",
+        " Có thể hoàn thành một ước tính trước khi kế hoạch quản lý dự án được tạo ra"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " PM được chỉ định ước tính chi phí chung để chia nhỏ các hoạt động để thiết lập một đường chuẩn cho việc đo đạc hiệu năng dự án. Đây là quy trình gì?",
+    "options": [
+      ["A", "A. Quản lý chi phí"],
+      ["B", "B. Ước tính chi phí"],
+      ["C", "C. Dự thảo ngân sách"],
+      ["D", "D. Kiểm soát chi phí"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Bạn được hỏi để chuẩn bị ngân sách để hoàn thành một dự án. Dự án này vừa bắt đầu năm ngoái và bị hoãn trong 6 tháng. Điều nào dưới đây không có trong ngân sách?",
+    "options": [
+      ["A", "A. Chi phí cố định"],
+      ["B", "B. Chi phí ngầm"],
+      ["C", "C. Chi phí trực tiếp"],
+      ["D", "D. Chi phí biến động (VC - variable costs)"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Để cung cấp một dự án mới cho phòng ban của mình, bạn cần di chuyển tài nguyên từ một dự án sang một dự án khác. Do phòng ban của bạn đang làm việc hết công suất, di chuyển tài nguyên sẽ chăncs chắn trì hoãn dự án mà bạn chuyển tài nguyên. Điều này làm ảnh hưởng tiêu cực ít nhất đến dự án nào dưới đây ếu bạn di chuyển tài nguyên từ dự án này? ",
+    "options": [
+      [
+        "A",
+        "Dự án A với tỷ lệ chi phí lợi ích là 0.8, không có tôn chỉ dự án, có 4 nguồn lực"
+      ],
+      [
+        "B",
+        ". Dự án B với NPV là 60000$, 12 nguồn lực, và chi phí biến động giữa 1000$ tới 2000$ một tháng"
+      ],
+      [
+        "C",
+        "Dự án C với chi phí cơ hội là 300000$, không có hệ thống kiểm soát dự án, tỷ suất hoàn vốn nội bộ IRR là 12%"
+      ],
+      ["D", "Dự án D với chi phí gián tiếp là 20000$ và 13 nguồn lực"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một dự án sản xuất có chỉ số thực hiện lịch trình SPI là 0.89 và chỉ số thực hiện chi phí CPI là 0.91. Thông thường, giải thích nào tốt nhất cho tình huống này?",
+    "options": [
+      ["A", "Phạm vi dự án đã thay đổi"],
+      [
+        "B",
+        "Một nhà cung cấp không kinh doanh nữa và một nhà cung cấp khác cần được tìm thấy"
+      ],
+      ["C", " Các thiết bị thêm vào cần thiết phải mua"],
+      [
+        "D",
+        "Hoạt động đường giới hạn thực hiện lâu hơn và cần nhiều giờ lao động để hoàn thành"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Mặc dù các bên có liên quan nghĩ rằng có đủ tiền trong ngân sách, dự án thực hiện được 1 nửa và CPI là 0.7. Để xác định nguyên nhân cốt lõi, các bên có liên quan kiểm tra dự án và phát hiện ra ngân sách chi phí dự án đã bị ước tính một cách tương tự. mặc dù các ước tính hoạt động thêm vào ước tính dự án, các bên có liên quan nghĩ rằng có gì đó bị bỏ sót trong khi hoàn thành ước tính. Điều bị bỏ sót ấy là gì?",
+    "options": [
+      ["A", "A. Chi phí ước tính được nên được sử dụng để đo CPI"],
+      ["B", "B. SPI nên được sử dụng, k phải CPI"],
+      ["C", "C. Ước tính từ dưới lên nên được sử dụng"],
+      ["D", "D. Thông tin lịch sử không được tính đến"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn là một PM của công ty tư vấn lớn. cấp trên của bạn vừa hỏi ý kiến của bạn trong một quyết định về dự án nào công ty nên theo đuổi. Dự án A có tỷ suất hoàn vốn nội bộ IRR là 12%. Dự án B được dự đoán có tỷ lệ chi phí lợi ích BCR là 1.3. Dự án C có chi phí cơ hội là 75000$. Dự án D có thời gian thu hồi vốn là 6 tháng. Bạn sẽ chọn dự án nào?",
+    "options": [
+      ["A", "A. Dự án A"],
+      ["B", "B. Dự án B"],
+      ["C", "C. Dự án C"],
+      ["D", "D. Dự án D"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " You are about to take over a project from another project manager and find out the following information about the project. Activity Z has an early start ES of day 15 and a late start LS of day 20. Activity Z is a difficult activity. Cost performance index CPI is 1.1. Schedule performance index SPI is 0.8. There are 11 stakeholders on the project. Based on this information, which of the following would you be the Most concerned about?",
+    "options": [
+      ["A", "A. Schedule"],
+      ["B", "B. Float"],
+      ["C", "C. Cost"],
+      ["D", "D. The number of available resources"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Sự khác nhau giữa đường chuẩn chi phí và ngân sách chi phí là:",
+    "options": [
+      ["A", "A. Quản lý tài nguyên dự trữ"],
+      ["B", "B. Dự trữ phát sinh"],
+      ["C", "C. Ước tính chi phí dự án"],
+      ["D", "D. Tài khoản chi phí (cost account?)"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Bạn cung cấp ước tính chi phí dự án cho nhà tài trợ dự án. Anh ta không hài lòng với ước tính, do anh ta nghĩ rằng giá có thể thấp hơn. Anh ta bảo bạn cắt giảm 15% ước tính dự án. Bạn nên làm gì?",
+    "options": [
+      [
+        "A",
+        "Bắt đầu dự án và liên tục tiết kiệm chi phí dự án (look for cost saving)"
+      ],
+      ["B", "Nói với đội dự án để cắt giảm 15% từ ước tính của họ "],
+      ["C", " Thông báo với nhà tài trợ về các hoạt động bị cắt giảm"],
+      [
+        "D",
+        "Thêm các nguồn tài nguyên với chi phí theo giờ thấp (low hourly rates)"
+      ]
+    ]
+  }
+]

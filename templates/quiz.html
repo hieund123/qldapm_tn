@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz - Chương {{ chapter }}</title>
+</head>
+<body>
+    <h1>Bài kiểm tra - Chương {{ chapter }}</h1>
+    <form method="POST">
+        {% for idx, question in enumerate(questions) %}
+        <div>
+            <h3>{{ question.question }}</h3>
+            {% for option in question.options %}
+            <input type="radio" name="{{ idx }}" value="{{ option[0] }}">
+            <label>{{ option[1] }}</label><br>
+            {% endfor %}
+        </div>
+        {% endfor %}
+        <button type="submit">Nộp bài</button>
+    </form>
+    <a href="/">Quay lại</a>
+</body>
+</html>

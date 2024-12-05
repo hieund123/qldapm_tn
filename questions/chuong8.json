@@ -1,0 +1,430 @@
+[  {
+    "Ans": "A",
+    "question": " Khi một sản phẩm hay dịch vụ hoàn tất và đáp ứng yêu cầu của khách hàng tức là:",
+    "options": [
+      ["A", "Chất lượng hoàn thiện"],
+      ["B", "Chi phí của chất lượng là cao"],
+      ["C", "Chi phí của chất lượng là thấp"],
+      ["D", " Khách hàng trả giá thấp nhất cho sản phẩm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Khái niệm của mức độ chất lượng tối ưu có thể đạt được tại điểm mà doanh thu tăng lên từ sự cải tiến sản phẩm bằng với chi phí tăng để bảo đảm nó. Câu này liên quan đến:",
+    "options": [
+      ["A", "Phân tích kiểm soát chất lượng"],
+      ["B", "Phân tích không quan trọng"],
+      ["C", "Phân tích tiêu chuẩn chất lượng"],
+      ["D", "Phân tích tính thống nhất"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Ai có trách nhiệm cuối cùng trong việc quản lý chất lượng trong dự án?",
+    "options": [
+      ["A", "A. Kỹ sư dự án"],
+      ["B", "B. PM"],
+      ["C", "C. Giám đốc quản lý chất lượng"],
+      ["D", "D. Nhân viên dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Một đội đang sử dụng sơ đồ xương cá để giúp xác định tiêu chuẩn chất lượng nào sẽ được sử dụng trong dự án. Họ đang ở trong quy trình quản lý chất lượng nào?",
+    "options": [
+      ["A", "A. Kiểm soát chất lượng thực hiện"],
+      ["B", "B. Đảm bảo chất lượng thực hiện"],
+      ["C", "C. Lên kế hoạch quản lý"],
+      ["D", "D. Phân tính biến động"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một người quản lý chú ý tới một PM đang tổ chức họp với một vài nhân viên đội dự án và một vài bên có liên quan tới dự án để thảo luận chất lượng dự án. Lịch trình dự án sẽ được nén lại và CPI là 1.1. Họ đã làm việc chăm chỉ trong dự án, đội dự án được thưởng theo hệ thống thưởng của PM và đây là một đội vững chắc. người quản lý đưa ra giả thuyết là PM không có đủ thời gian để tổ chức họp về chất lượng khi lịch trình không được nén. Điều nào dưới đây mô tả đúng nhất về việc người quản lý này đã sai?",
+    "options": [
+      [
+        "A",
+        "A. Chất lượng được cải thiện dẫn đến gia tăng hiệu suất, tăng hiệu quả chi phí và giảm chi phí rủi ro."
+      ],
+      [
+        "B",
+        "B. Chất lượng được cải thiện dẫn đến tăng hiệu suất, giảm hiệu quả chi phí và tăng chi phí rủi ro"
+      ],
+      [
+        "C",
+        "C. Chất lượng được cải thiện dẫn đến tăng hiệu suất, tăng hiệu quả chi phí và tăng chi phí rủi ro"
+      ],
+      [
+        "D",
+        "D. Chất lượng được cải thiện dẫn đến tăng hiệu suất, giảm hiệu quả chi phí và giảm chi phí rủi ro"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Từ góc độ dự án, thuộc tính của chất lượng: ",
+    "options": [
+      [
+        "A",
+        "A. Xác định làm thế nào để tăng hiệu quả tổ chức thực hiện hỗ trợ dự án"
+      ],
+      [
+        "B",
+        "B. Cung cấp những điều căn bản để xem thành công và thất bại của dự án"
+      ],
+      ["C", "C. Là tính chất đặc biệt cho dự án nào được thiết kế và kiểm thử "],
+      ["D", "D. Là tiêu chuẩn mục tiêu phải thỏa mãn"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Chất lượng là",
+    "options": [
+      ["A", "A. Thỏa mãn và vượt quá kỳ vọng của khách hàng"],
+      ["B", "B. Thêm vào một vài thứ để làm khách hàng thỏa mãn"],
+      ["C", "C. Là đơn vị đo xem dự án có thỏa mãn yêu cầu không."],
+      ["D", "D. Làm theo mục tiêu của ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Điều nào dưới đây không phải là đảm bảo chất lượng? ",
+    "options": [
+      ["A", "A. Giám định"],
+      ["B", "B. Phân tích quy trình"],
+      ["C", "C. Sơ đồ Pareto"],
+      ["D", "D. Sơ đồ xương cá"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Sơ đồ Pareto giúp PM",
+    "options": [
+      ["A", "A. Tập trung vào vấn đề then chốt để cải thiện chất lượng"],
+      ["B", "B. Tập trung vào suy nghĩ khuyến khích (stimulate thinking)"],
+      ["C", "C. Khám phá kết quả mong muốn trong tương lai"],
+      ["D", "D. Xác định nếu một quá trình ra ngoài kiểm soát"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một sơ đồ điều khiển giúp PM",
+    "options": [
+      ["A", "A. Tập trung vào vấn đề then chốt nhất để cải thiện chất lượng"],
+      ["B", "B. Tập trung vào suy nghĩ tích khuyến khích (stimulate thinking)"],
+      ["C", "C. Khám phá kết quả mong muốn trong tương lai"],
+      [
+        "D",
+        "D. Xác định nếu một quá trình đang hoạt động trong tập các giới hạn"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Kiểm thử toàn bộ tập hợp sẽ: (testing the entire population would)",
+    "options": [
+      ["A", "A. Mất nhiều thời gian"],
+      ["B", "B. Cung cấp nhiều thông tin hơn mong muốn"],
+      ["C", "C. Loại trừ lẫn nhau"],
+      ["D", "D. Chỉ ra nhiều khuyết điểm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Điều nào dưới đây không phải là ví dụ về chi phí không phù hợp? ",
+    "options": [
+      ["A", "A. Làm lại (rework)"],
+      ["B", "B. Đào tạo chất lượng"],
+      ["C", "C. Loại bỏ (scrap)"],
+      ["D", "D. Chi phí bảo hành"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Độ lệch tiêu chuẩn là một thước đo có tính chất: ",
+    "options": [
+      ["A", "A. Far the estimate is from the highest estimate"],
+      ["B", "B. Far the measurement is from the mean"],
+      ["C", "C. Correct the sample is"],
+      ["D", "D. Much time remains in the project"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "What percentage of the total distribution are 3 sigma from the mean equal to? ",
+    "options": [
+      ["A", "A. 68.26%"],
+      ["B", "B. 99.99%"],
+      ["C", "C. 95.46%"],
+      ["D", "D. 99.73%"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?",
+    "options": [
+      [
+        "A",
+        "A. Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không"
+      ],
+      ["B", "B. Xcá định sự không hiệu quả và các chính sách không hiệu quả"],
+      ["C", "C. Sửa chữa các khiếm khuyết được xác định"],
+      [
+        "D",
+        "D. Xcá nhận việc thực hiện của các yêu cầu thay đổi đã được phê chuẩn"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Một sơ đồ điều khiển chỉ ra 7 điểm dữ liệu trong một đường thẳng ở cùng 1 bên của điểm trung bình. Điều gì nên được hoàn thành?",
+    "options": [
+      ["A", "A. Thực hiện bản thiết kế thử nghiệm"],
+      ["B", "B. Điều chỉnh sơ đồ để phản ánh điểm trung bình mới"],
+      ["C", "C. Tìm một nguyên nhân khác có thể (assignable cause)"],
+      ["D", "D. Chẳng có gì. Đây là luật 7 và không được từ chối."]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn đang quản lý một dự án và đang trong môi trường đúng thời hạn. Điều này sẽ yêu cầu nhiều chú { hơn, do lượng hàng tồn kho trong môi trường này là:",
+    "options": [
+      ["A", "A. 45%"],
+      ["B", "B. 10%"],
+      ["C", "C. 12%"],
+      ["D", "D. 0%"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Sơ đồ Ishikawa giúp:",
+    "options": [
+      ["A", "A. Đặt thông tin vào đúng thứ tự ưu tiên"],
+      ["B", "B. Khám phá đầu ra quá khứ(explore past outcomes)"],
+      ["C", "C. Chỉ ra trách nhiệm của đội dự án"],
+      ["D", "D. Chỉ ra trách nhiệm chức năng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong khi lập kế hoạch dự án, điều nào thông thường sẽ có ưu tiên nhất, chất lượng, chi phí hay lịch trình? ",
+    "options": [
+      [
+        "A",
+        " A. Chi phí là quan trọng nhất, sau đó là chất lượng, cuối cùng là lịch trình"
+      ],
+      ["B", " B. Chất lượng là quan trọng hơn lịch trình và chi phí"],
+      [
+        "C",
+        " C. Lịch trình là quan trọng nhất, sau đó là chất lượng, cuối cùng là chi phí"
+      ],
+      ["D", " D. Điều này nên được quyết định tùy mỗi dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một PM đang sử dụng sơ đồ nhân quả với đội dự án để quyết định các nhân tốt biến đổi sẽ được kết nối ntn với các vấn đề tiềm năng.PM sẽ làm việc trong phần nào của quá trình quản lý chất lượng dự án?",
+    "options": [
+      ["A", "A. Phân tích chất lượng"],
+      ["B", "B. Thực hiện đảm bảo chất lượng"],
+      ["C", "C. Thực hiện kiểm soát chất lượng"],
+      ["D", "D. Lên kế hoạch chất lượng"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một PM và đội từ một công ty thiết kế thiết bị đường sắt đang giao nhiệm vụ để thiết kế thiết bị tải đá vào ô tô đường sắt. thiết kế cho phép 2% số đã bị đổ, tổng số lượng lên tới 2 tấn hao hụt mỗi ngày. Người PM nên dẫn chứng kiểm soát chất lượng, đảm bả chất lượng và cải tiến chất lượng trong văn bản nào??",
+    "options": [
+      ["A", "A. Kế hoạch quản lý chất lượng"],
+      ["B", "B. Chính sách chất lượng"],
+      ["C", "C. Sơ đồ kiểm soát"],
+      ["D", "D. Kế hoạch quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong khi họp đội dự án, đội dự án thêm vào phạm vi đặc biệt của công việc thêm do họ xác định rằng nó sẽ làm lợi cho khách hàng. Điều gì là sai trong tình huống này",
+    "options": [
+      [
+        "A",
+        "A. Đội dự án đang tạo thêm lợi ích cho khách hàng nhưng k được trả thêm tiền (gold plating)"
+      ],
+      ["B", " B. Những nỗ lực này không nên được hoàn thành trong khi họp"],
+      [
+        "C",
+        " C. Chẳng có gì sai. Đây là cách để thỏa mãn và vượt quá yêu cầu của khách hàng"
+      ],
+      ["D", " D. Chẳng có gì sai. PM đang kiểm soát dc tình huống này"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Đội dự án vừa tạo ra kế hoạch mô tả cách họ thực hiện chính sách chất lượng. Nó giải quyết cấu trúc hướng tổ chức, trách nhiệm, thủ tục và các thông tin khác về kế hoạch cho chất lượng. nếu thay đổi này trong quá trình thực hiện dự án, kế hoạch nào dưới đây sẽ thay đổi theo? ",
+    "options": [
+      ["A", "A. Đảm bảo chất lượng"],
+      ["B", "B. Quản lý chất lượng"],
+      ["C", "C. Quản lý dự án"],
+      ["D", "D. Kiểm soát chất lượng"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Bạn là một PM cho một dự án hệ thống thông tin lớn khi một người từ phòng chất lượng đến và nói về bắt đầu kiểm tra chất lượng dự án của bạn. Đội dự án, đã chịu áp lực phải hoàn thành dự án nhanh nhất có thể, cảm thấy khó chịu về kiểm tra này. Bạn nên giải thích với đội rằng mục đích của kiểm tra chất lượng là:",
+    "options": [
+      ["A", " A. Một phần của giám định ISO 9000"],
+      [
+        "B",
+        "B. Để kiểm tra nếu khách hàng đang theo sát quy trình chất lượng."
+      ],
+      ["C", " C. Để xác định các chính sách không phù hợp"],
+      ["D", "D. Để kiểm tra tính chính xác nếu chi phí được đội dự án xem xét"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Bạn đang trong dự án xây dựng thiết bị mới. Các kết cấu đã được đặt vào vị trí và các ống dẫn nhiệt cũng sẽ được đặt đúng chỗ, khi đó người quản lý cấp cao thông báo với bạn rằng anh ta đang lo lắng dự án không đáp ứng được tiêu chuẩn chất lượng. Bạn nên làm gì trong tình huống này? ",
+    "options": [
+      [
+        "A",
+        " A. Cam đoan với người quản lý cấp cao rằng trong khi lên kế hoạch chất lượng đã xác định dự án sẽ đáp ứng được tiêu chuẩn chất lượng"
+      ],
+      ["B", "B. Ước tính tương tự sẽ có kết quả trong tương lai"],
+      ["C", " C. Đào tạo đội đảm bảo chất lượng"],
+      [
+        "D",
+        " D. Kiểm tra kết quả từ các kế hoạch quản lý chất lượng trong quá khứ"
+      ]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": " Bạn được hỏi để lựa chọn công cụ và kỹ thuật để thực hiện chương trình đảm bảo chất lượng để bổ sung cho các hoạt động kiểm soát chất lượng đã có. Bạn nên chọn điều nào dưới đây?",
+    "options": [
+      ["A", "A. Kiểm tra chất lượng"],
+      ["B", "B. Lấy mẫu thống kê "],
+      ["C", "C. Biểu đồ Pareto"],
+      ["D", "D. Phân tích xu hướng"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Dự án cài đặt phần mềm mới đang thực hiện. PM đang làm việc với phòng ban đảm bảo chất lượng để cải thiện sự tin tưởng của mọi người rằng dự án sẽ đáp ứng các tiêu chuẩn chất lượng. điều nào dưới đây họ phải có trước khi bắt đầu quá trình này?",
+    "options": [
+      ["A", "A. Các vấn đề chất lượng"],
+      ["B", "B. Cải thiện chất lượng"],
+      ["C", "C. Hệ thống đo đạc kiểm soát chất lượng"],
+      ["D", "D. Làm lại công việc (rework)"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án bạn đang làm việc có gia tăng chi phí hiệu quả, tăng hiệu suất và tăng tinh thần, chí khí(morale). Điều gì có thể là nguyên nhân cho các thay đổi này? ",
+    "options": [
+      ["A", "A. Mục tiêu dự án được đáp ứng khi thực hiện"],
+      ["B", "B. Tăng chất lượng"],
+      ["C", "C. Ban lãnh đạo tập trung vào chính sách ngăn chặn"],
+      ["D", "D. Tưởng thưởng (reward) cho nỗ lực của các các nhân"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM vừa đảm nhiệm dự án từ một PM khác trong giai đoạn thực thi dự án. Người PM trước đó đã tạo ra ngân sách dự án, xác định các yêu cầu truyền thông và đang chuẩn bị hoàn thành gói công việc. Người PM mới nên làm điều gì tiếp theo? ",
+    "options": [
+      ["A", " A. Kết hợp thực hiện các gói công việc"],
+      ["B", " B. Xác định các tiêu chuẩn chất lượng"],
+      ["C", " C. Bắt đầu xác định rủi ro"],
+      ["D", "D. Thực hiện kế hoạch quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một dự án đang phải đối mặt với 1 thay đổi lớn đối với sản phẩm đầu ra. Nếu PM phải quyết định tiêu chuẩn chất lượng nào là có liên quan tới thay đổi, PM sẽ",
+    "options": [
+      ["A", "A. Quản lý chất lượng"],
+      ["B", "B. Thực hiện đảm bảo chất lượng"],
+      ["C", "C. Lên kế hoạch chất lượng"],
+      ["D", "D. Thực hiện kiểm soát chất lượng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Vào cuối dự án, PM xác định dự án sẽ thêm 4 vùng chức năng và 3 vùng hiệu năng. Khách hàng bày tỏ sự hài lòng với dự án. Sự thành công của dự án có nghĩa là:",
+    "options": [
+      ["A", "A. Dự án không đủ tiêu chuẩn thành công"],
+      [
+        "B",
+        "B. Dự án không thành công vì nó thực hiện thêm những điều khách hàng muốn mà k được trả thêm tiền (gold plating)"
+      ],
+      [
+        "C",
+        "C. Dự án không thành công do khách hàng hài lòng nghĩa là họ phải trả thêm tiền cho công việc"
+      ],
+      [
+        "D",
+        "D. Dự án thành công do đội đã có cơ hội học các vùng chức năng mới và khách hàng hài lòng"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong giai đoạn thực thi dự án, một nhân viên đội dự án thông báo với PM rằng một gói công việc không đáp ứng được tiêu chuẩn chất lượng, và cô ta tin rằng gói công việc này không thể đáp ứng được. PM họp với các bên có liên quan để phân tích tình huống. PM này đang ở trong quy trình quản lý chất lượng nào? ",
+    "options": [
+      ["A", "A. Thực hiện đảm bảo chất lượng"],
+      ["B", "B. Kiểm soát dự án"],
+      ["C", "C. Thực hiện kiểm soát chất lượng"],
+      ["D", "D. Lên kế hoạch chất lượng"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "PM chú ý rằng các hoạt động dự án đang được hoàn thành bởi 1 phòng ban đều làm việc không đáng kể so với kế hoạch. Đến thời hạn, không có hoạt động hay gói công việc nào đi đúng đường tới hạn, cũng như nó ảnh hưởng tới kế hoạch chuỗi tới hạn. PM khó chịu vì vấn đề này. Khi 4/5 hoạt động trong đường tới hạn phải được phòng ban này thực hiện. sau khi gọi 3 cuộc, cuối cùng, PM quyết định trái với người lãnh đạo của phòng ban này và xác định điều gì đang xảy ra. Cuộc hội thoại này lâu do cả 2 nói 2 ngôn ngữ khác nhau và họ cố gắng giao tiếp bằng tiếng Pháp (ngôn ngữ chung). Để giúp việc giao tiếp đơn giản hơn, PM thường xuyên yêu cầu người lãnh đạo của phòng ban này nhắc lại những gì đã nói. Anh ta nói với nhân viên của mình tuân theo chính sách của công ty và yêu cầu 2 mức kiểm thử. Trong quá trình hội thoại, anh ta cũng nhận xét khiến cho người PM tin rằng chính sách bao gồm quá nhiều công việc. Đây là lần thứ 4 PM nghe những nhận xét như thế. PM nên làm gì tốt nhất?",
+    "options": [
+      ["A", "Thời gian trễ trong các đường khác"],
+      ["B", "Sự xuất hiện đường tời hạn mới. "],
+      [
+        "C",
+        "Các nguồn lực được chỉ định cho các nhiệm vụ khác trên đường tới hạn"
+      ],
+      ["D", "Nhiệm vụ dài nhất còn lại trong kế hoạch"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Điều chỉnh các nhiệm vụ được phân bổ khác nhau trong dự án để duy trì khối lượng nguồn lực phù hợp được gọi là:",
+    "options": [
+      [
+        "A",
+        "A. Tạo ra kế hoạch quản lý truyền thông tốt hơn và yêu cầu chỉ một ngôn ngữ chính thức trong dự án và phải có người dịch ngay lập tức"
+      ],
+      [
+        "B",
+        "B. Liên lạc với ai đó trong phòng ban, người này cũng nói ngôn ngữ mẹ đẻ của PM tốt để xác nhận ý kiến của người lãnh đạo phòng ban đó "
+      ],
+      ["C", "C. Tìm xem nếu hành động tiếp theo có nên ước tính lại không"],
+      [
+        "D",
+        "D. Làm việc với hiệu quả gia tăng của tổ chức thực hiện bằng cách khuyến khi sự cải thiện của chính sách bằng cách sử dụng các câu hỏi"
+      ]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Một PM bị tràn ngập với các vấn đề trong dự án của anh ấy. Anh ta xác định nguyên nhân gốc rễ của vấn đề theo thứ tự để xác định nên tập trung vào đâu. Công cụ nào dưới đây là tốt nhất để anh ta sử dụng? ",
+    "options": [
+      ["A", "A. Biểu đồ Pareto"],
+      ["B", "B. Kỹ thuật giải quyết xung đột"],
+      ["C", "C. Sơ đồ xương cá "],
+      ["D", "D. Phân tích xu hướng"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Là một PM, bạn đang chuẩn bị phương pháp để quản lý chất lượng. Bạn đang tìm kiếm phương pháp có thể chứng minh mối quan hệ giữa các sự kiện và kết quả kéo theo. Bạn muốn sử dụng một phương pháp để mô hình các sự kiện này và là nguyên nhân cho ảnh hưởng xấu tới chất lượng. Bạn sẽ sử dụng sơ đồ nào dưới đây để đạt được mục đích của mình? ",
+    "options": [
+      ["A", "A. Biểu đồ tần số"],
+      ["B", "B. Sơ đồ Pareto"],
+      ["C", "C. Sơ đồ Ishikawa"],
+      ["D", "D. Sơ đồ điều khiển"]
+    ]
+  }
+]

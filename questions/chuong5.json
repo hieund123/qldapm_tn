@@ -1,0 +1,234 @@
+[  {
+    "Ans": "C",
+    "question": "Một hệ thống đánh số của WBS cho phép các nhân viên dự án: ",
+    "options": [
+      [
+        "A",
+        "A. Ước tính chi phí một cách có hệ thống về các thành phần của WBS"
+      ],
+      ["B", "B. Cung cấp sự chứng minh dự án (project justification)"],
+      ["C", "C. Xác định mức độ cho mỗi thành phần"],
+      ["D", "D. Sử dụng nó trong phần mềm quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "WBS có thể được suy nghĩ tốt nhất như một sự viện trợ hiệu quả cho truyền thông……. ",
+    "options": [
+      ["A", "A. Đội dự án"],
+      ["B", "B. PM"],
+      ["C", "C. Khách hàng"],
+      ["D", "D. Các bên có liên quan"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Điều nào dưới đây là thuộc tính chính của xác minh phạm vi? ",
+    "options": [
+      ["A", "A. Hoàn thành nhiều kế hoạch quản lý phạm vi dự án"],
+      ["B", "B. Sự chấp nhận của khách hàng về sản phẩm bàn giao của dự án"],
+      ["C", "C. Sự cải thiện ước lượng lịch trình"],
+      ["D", "D. Sự cải thiện của hệ thống thông tin quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Trong giai đoạn thực thi, một nhân viên dự án hỏi người PM do anh ta không chắc chắn mình phải thực hiện công việc nào trong dự án. Tài liệu nào dưới đây chứa bản mô tả chi tiết của các gói công việc? ",
+    "options": [
+      ["A", "A. Từ điển WBS"],
+      ["B", "B. Danh sách hoạt động"],
+      ["C", "C. Tuyên bố phạm vi dự án sơ bộ "],
+      ["D", "D. Kế hoạch quản lý phạm vi dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Tuyên bố phạm vi dự án được tạo ra trong giai đoạn nào của dự án? ",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Lên kế hoạch"],
+      ["C", "C. Thực thi"],
+      ["D", "D. Kiểm soát"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Chương trình được lên kế hoạch nhiều năm trước khi có một giới thiệu lớn của công nghệ mới. trong khi lên kế hoạch cho dự án mới để bắt đầu trong chương trình này, PM đã mở rộng kế hoạch quản lý phạm vi dự án do dự án trở nên phức tạp hơn. Mức độ không chắc chắn trong phạm vi là: ",
+    "options": [
+      ["A", "A. Không thay đổi"],
+      ["B", "B. Giảm xuống"],
+      ["C", "C. Giảm xuống sau đó tăng lên"],
+      ["D", "D. Tăng lên"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Một kế hoạch quản lý dự án nên thực tế để sử dụng quản lý dự án. Phương pháp nào dưới đây là tốt nhất để có được một kế hoạch quản lý dự án có tính thực tế? ",
+    "options": [
+      ["A", " Nhà tài trợ tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM"],
+      [
+        "B",
+        "B. Các giám đốc chức năng tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM"
+      ],
+      [
+        "C",
+        "C. PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ nhà quản lý cấp cao"
+      ],
+      ["D", "D. PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ đội dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Một PM mới được các chuyên gia quản lý dự án có kinh nghiệm cố vấn. anh ta thấy rằng thật khó để tìm đủ thời gian quản lý dự án do dự án và phạm vi sản phẩm đang ngày càng phức tạp. các chuyên gia đề cập tới các công cụ đơn giản cho quản lý dự án như WBS, có thể được sử dụng trong quá trình thực hiện dự án để giúp đỡ việc quản lý. Vậy WBS dùng để làm gì? ",
+    "options": [
+      ["A", "A. Truyền thông với khách hàng"],
+      ["B", "B. Chỉ ra lịch và ngày cho mỗi gói công việc"],
+      ["C", "C. Chỉ ra các giám đốc chức năng cho mỗi nhân viên dự án"],
+      ["D", "D. Chỉ ra yêu cầu kinh doanh cho dự án"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Trong buổi họp với đội dự án, một nhân viên đề nghị tăng phạm vi to hơn phạm vi trong tôn chỉ dự án. PM chỉ ra rằng đội dự án cần tập trung vào hoàn thành tất cả công việc và chỉ công việc được yêu cầu. đây là một ví dụ về: ",
+    "options": [
+      ["A", "A. Quy trình quản lý thay đổi"],
+      ["B", "B. Quản lý phạm vi"],
+      ["C", "C. Phân tích chất lượng"],
+      ["D", "D. Phân tích phạm vi"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Khi nào thì xác minh phạm vi nên được hoàn thành: ",
+    "options": [
+      ["A", "A. Cuối dự án (at the end of project)"],
+      ["B", "B. Đầu dự án (at the beginning of project)"],
+      ["C", "C. Ở cuối mỗi pha của dự án"],
+      ["D", "D. Trong giai đoạn lập kế hoạch"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Dự án đã gần như hoàn thành. Dự án có biến động về lịch trong là 300 và biến động chi phí là -900. Tất cả đã được hoàn thành và đáp ứng yêu cầu chất lượng ngoại trừ việc giám định kiểm soát chất lượng. Tất cả các mục trong nhật ký vấn đề (issue log) đều được giải quyết. Khá nhiều nguồn lực đã được giải phóng. Nhà tài trợ tổ chức một buổi gặp mặt để xác minh sản phẩm khi khách hàng thông báo với PM rằng họ muốn một thay đổi chính đối với phạm vi dự án. PM nên làm gì? ",
+    "options": [
+      [
+        "A",
+        "A. Gặp đội dự án để xác định nếu thay đổi này có thể phải thực hiện"
+      ],
+      ["B", "B. Hỏi khách hàng về mô tả thay đổi này"],
+      [
+        "C",
+        "C. Giải thích rằng thay đổi không thể thực hiện vào thời điểm này của dự án"
+      ],
+      ["D", "D. Thông báo với ban lãnh đạo"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Bạn vừa tham gia vào phòng quản lý dự án sau 5 năm làm việc trong dự án. Một trong những điều bạn muốn giới thiệu với công ty là sự cần thiết của bảng WBS. Một vài PM đã tức giận do bạn đang đòi hỏi họ phải làm thêm việc. Điều nào dưới đây là tốt nhất khi bạn muốn thuyết phục họ sử dụng WBS? ",
+    "options": [
+      [
+        "A",
+        "A. Nói với học rằng WBS sẽ ngăn chặn các công việc từ không tốt tới tốt (from slipping to the crack)"
+      ],
+      ["B", "B. Nói với họ rằng WBS không cần thiết"],
+      [
+        "C",
+        "C. Nói với họ rằng WBS là yêu cầu bắt buộc nếu dự án kéo theo những hợp đồng"
+      ],
+      ["D", "D. Nói với họ rằng WBS là cách duy nhất để xác định rủi ro."]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM mới vừa xin bạn lời khuyên để tạo ra bảng WBS. Sau khi bạn giải thích quy trình cho anh ta, anh ta hỏi bạn rằng nên sử dụng phần mềm nào để lập bảng WBS và anh ta nên làm gì với nó khi anh ta hoàn thành. Bạn sẽ trả lời rằng bức hình (picture) không phải là kế quả giá trị nhất của việc tạo bảng WBS, đó là: ",
+    "options": [
+      ["A", "A. A bar chart (biểu đồ đoạn)"],
+      ["B", "B. Team buy in"],
+      ["C", " C. Các hoạt động"],
+      ["D", "D. Một danh sách các rủi ro"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Để quản lý dự án một cách hiệu quả, công việc nên được chia nhỏ ra. Điều nào dưới đây KHÔNG mô tả cách chia công việc nhỏ tới mức nào? ",
+    "options": [
+      ["A", "A. Cho đến khi nó có kết thúc hợp lý"],
+      ["B", "B. Cho đến khi không thể chia nhỏ hơn về mặt logic"],
+      ["C", "C. Cho đến khi công việc được làm bởi 1 người"],
+      ["D", "D. Cho đến khi nó có thể ước tính một cách thực tế"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM có thể sẽ sử dụng…………… để chắc chắn rằng đội dự án biết rõ công việc nào được bao gồm trong mỗi gói công việc của họ?",
+    "options": [
+      ["A", " Tuyên bố phạm vi dự án"],
+      ["B", "Phạm vi sản phẩm"],
+      ["C", "Từ điển WBS"],
+      ["D", "Lịch trình"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một PM vừa được phân công cho 1 dự án mới và được đưa cho tôn chỉ dự án và tuyên bố phạm vi dự án sơ bộ. Điều đầu tiên anh ta nên làm là gì? ",
+    "options": [
+      ["A", "Tạo ra tuyên bố phạm vi dự án"],
+      [
+        "B",
+        "Chắc chắn rằng tất cả các bên có liên quan đã có đầu vào trong phạm vi (có tham gia)"
+      ],
+      ["C", "Phân tích rủi ro dự án"],
+      ["D", "Bắt đầu thực hiện kế hoạch quản lý dự án"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Pha xây dựng của một sản phẩm phần mềm mới sắp hoàn thành. Pha tiếp theo là kiểm thử và cài đặt (implementation). Theo lịch trình, dự án chỉ còn 2 tuần nữa. PM nên làm gì truwóc khi chuyển sang pha cuối cùng",
+    "options": [
+      ["A", "Xác minh phạm vi"],
+      ["B", "Kiểm soát chất lượng"],
+      ["C", "Báo cáo hiệu năng"],
+      ["D", "Kiểm soát chi phí"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": " Bạn đang quản lý một dự án 6 tháng và tổ chức họp mặt 1 tuần 2 lần với các bên có liên quan tới dự án. Sau 5.5 tháng làm việc, dự án vẫn theo đúng lịch trình và ngân sách, nhưng các bên có liên quan không hài lòng với sản phẩm thu được. Tình huống này sẽ làm chậm 1 tháng để hoàn thành dự án. Quy trình quan trọng nhất để ngăn chặn tình huống này là: ",
+    "options": [
+      ["A", "Kiểm soát rủi ro"],
+      ["B", "Kiểm soát lịch trình"],
+      ["C", "Lên kế hoạch phạm vi"],
+      ["D", "Kiểm soát phạm v"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Tất cả các điều dưới đây đều là một phần của đường chuẩn phạm vi (scope baseline) ngoại trừ:",
+    "options": [
+      ["A", "Kế hoạch quản lý phạm vi dự án"],
+      ["B", "Tuyên bố phạm vi dự án"],
+      ["C", "Bảng WBS"],
+      ["D", "Từ điện WBS"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": " Một trong các bên liên quan của dự án liên lạc với PM để thảo luận vài mở rộng về phạm vi mà họ muốn thêm vào dự án. PM hỏi về văn bản chi tiết và các hoạt động trong quy trình quản lý phạm vi. Khi phạm vi yêu cầu đã hoàn tất, PM nên làm gì tiếp theo?",
+    "options": [
+      ["A", "Hỏi bên có liên quan nếu họ mong chờ thêm thay đổi"],
+      [
+        "B",
+        "Hoàn thành kiểm soát thay đổi tích hợp (integrated change control)"
+      ],
+      [
+        "C",
+        "Chắc chắn rằng ảnh hưởng của thay đổi đã được các bên có liên quan hiểu rõ "
+      ],
+      [
+        "D",
+        "Tìm ra nguyên nhân gốc rễ tại sao phạm vi lại không được khám phá ra trong khi lập kế hoạch dự án. thành khi kiểm soát phạm vi chưa hoàn thành"
+      ]
+    ]
+  }
+]

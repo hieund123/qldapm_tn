@@ -1,0 +1,167 @@
+[
+  {
+    "Ans": "C",
+    "question": "Trong giai đoạn (quy trình - process) nào của vòng đời dự án mà tài liệu ngân sách chi tiết được viết ra? ",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Trước quy trình quản lý dự án"],
+      ["C", "C. Lập kế hoạch"],
+      ["D", "D. Thực thi"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Tôn chỉ dự án được viết ra trong giai đoạn nào của vòng đời dự án? ",
+    "options": [
+      ["A", "A. Thực thi"],
+      ["B", "B. Lập kế hoạch"],
+      ["C", "C. Kết thúc"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Đội dự án vừa hoàn thành lịch khởi tạo dự án (initial project schedule) và ngân sách dự án. Việc phải làm tiếp theo là: ",
+    "options": [
+      ["A", "A. Bắt đầu xác định rủi ro"],
+      ["B", "B. Bắt đầu lặp lại hành động"],
+      ["C", "C. Xác định các yêu cầu truyền thông"],
+      ["D", "D. Làm sơ đồ Gantt"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Lịch làm việc chi tiết của dự án có thể được tạo ra sau khi đã có: ",
+    "options": [
+      ["A", "A. Ngân sách dự án"],
+      ["B", "B. Bảng phân rã công việc WBS"],
+      ["C", "C. Kế hoạch quản lý dự án"],
+      ["D", "D. Bảng đánh giá rủi ro chi tiết"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Người nên được kiểm soát dự án trong quá trình lập kế hoạch dự án là: ",
+    "options": [
+      ["A", "A. Người quản lý dự án PM"],
+      ["B", "B. Nhân viên dự án"],
+      ["C", "C. Giám đốc bộ phận chức năng"],
+      ["D", "D. Nhà tài trợ"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong giai đoạn khởi tạo dự án, văn bản nào dưới đây KHÔNG cần thiết: ",
+    "options": [
+      ["A", "A. Các quy trình của công ty"],
+      ["B", "B. Văn hóa của công ty"],
+      ["C", "C. Các bảng phân rã công việc đã có trước đó WBS"],
+      ["D", "D. Tuyên bố phạm vi dự án"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là: ",
+    "options": [
+      ["A", "A. Bắt đầu hoàn thành gói công việc"],
+      ["B", "B. Hoàn thành phê chuẩn phạm vi dự án"],
+      ["C", "C. Bắt đầu kết hợp điều khiển thay đổi"],
+      ["D", "D. Bắt đầu tạo ra các kế hoạch quản lý"]
+    ]
+  },
+  {
+    "Ans": "A",
+    "question": "Các ràng buộc về lịch trình dự án mức cao được xác định trong giai đoạn nào? ",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Lập kế hoạch"],
+      ["C", "C. Thực thi"],
+      ["D", "D. Kiểm soát"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Bảng phân rã công việc WBS và từ điển WBS đều được hoàn thành. Đội dự án bắt đầu xác định các rủi ro. Nhà tài trợ liên lạc với PM để yêu cầu làm ma trận trách nhiệm. dự án có ngân sách là 100000$ với 14 nhân lực đến từ 3 quốc gia. Dự án có một rủi ro nhỏ và PM đã quản lý rất nhiều dự án giống dự án này. Việc phải làm tiếp theo là: ",
+    "options": [
+      ["A", "A. Hiểu rõ kinh nghiệm của nhà tài trợ trong các dự án trước"],
+      ["B", "B. Tạo ra danh sách hoạt động (activity list)"],
+      ["C", "C. Chắc chắn rằng phạm vi dự án đã được xác định"],
+      ["D", "D. Hoàn thành quản lý rủi ro và ma trận trách nhiệm"]
+    ]
+  },
+  {
+    "Ans": "B",
+    "question": "Một PM không có nhiều thời gian để lên kế hoạch trước khi ngày bắt buộc khởi động dự án đang tới. Do đó anh ta muốn lập kế hoạch hiệu quả nhất có thể. Anh ta nên làm gì? ",
+    "options": [
+      [
+        "A",
+        "A. Chắc chắn nên có tuyên bố phạm vi dự án sơ bộ đã hoàn thành và sau đó tiến hành làm WBS"
+      ],
+      ["B", "B. Tạo danh sách hoạt động trước khi tạo ra sơ đồ mạng"],
+      [
+        "C",
+        "C. Có tài liệu về các rủi ro đã biết trước khi làm các giả thuyết và ước tính sâu hơn"
+      ],
+      [
+        "D",
+        "D. Hoàn thiện kế hoạch quản lý chất lượng trước khi quyết định đơn vị đo chất lượng"
+      ]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "PM chắc chắn rằng sản phẩm của dự án phải hoàn thiện theo kế hoạch quản lý dự án. Anh ta đang ở giai đoạn nào của dự án? ",
+    "options": [
+      ["A", "A. Lên kế hoạch"],
+      ["B", "B. Thực thu"],
+      ["C", "C. Kiểm soát"],
+      ["D", "D. Kết thúc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một PM nhận được cuộc gọi từ nhân viên dự án, thông báo rằng đã có sự khác nhau giữa tốc độ của một hệ thống trong dự án và tốc độ đề ra. PM ngạc nhiên bởi vì quản lý hiệu năng không được xác định trong giai đoạn lập kế hoạch. Nếu PM sau đó có thể ước tính được khi nào sẽ có phản hồi của sự khác nhau này, thì anh ta đang ở giai đoạn nào của quản lý dự án? ",
+    "options": [
+      ["A", "A. Khởi tạo"],
+      ["B", "B. Thực thi"],
+      ["C", "C. Kiểm soát"],
+      ["D", "D. Kết thúc"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Một nhân viên dự án thông báo cho PM rằng hoạt động bao gồm một gói công việc hiện nay không còn thích hợp nữa. điều này là tốt nhất cho PM khi anh ta đang ở trong một phần nào của giai đoạn phát triển dự án? ",
+    "options": [
+      ["A", "A. Hành động hiệu chỉnh"],
+      ["B", "B. Kết hợp điều khiển thay đổi"],
+      ["C", "C. Kiểm soát"],
+      ["D", "D. Kết thúc dự án"]
+    ]
+  },
+  {
+    "Ans": "C",
+    "question": "Trong buổi họp đội dự án, một nhân viên dự án hỏi về đơn vị đo đạc nào được sử dụng trong dự án để kiểm soát hiệu năng. nhân viên này cảm thấy một vài thước đo có liên quan tới công việc của anh ta đang không chính xác. Dự án được xem xét tốt nhất trong phần nào của giai đoạn phát triển dự án? ",
+    "options": [
+      ["A", "A. Kết thúc"],
+      ["B", "B. Kiểm soát"],
+      ["C", "C. Thực thi"],
+      ["D", "D. Khởi tạo"]
+    ]
+  },
+  {
+    "Ans": "D",
+    "question": "Trong khi hoàn thành gói công việc, nhà tài trợ yêu cầu PM báo cáo dự án đang được diễn tiến ntn. Trong quá trình chuẩn bị báo cáo, PM yêu cầu tất cả nhân viên dự án họ đã làm được bao nhiêu % công việc của mình. Có một nhân viên rất khó khăn trong việc quản lý từ đầu. khi trả lời câu hỏi của PM, anh ta nói rằng chưa hoàn thành gì cả. Mệt mỏi vì được trả lời như vậy, PM báo cáo với thủ trưởng của đội dự án là các nhân viên không có tinh thần hợp tác. Vấn đề thật sự ở đây là gì? ",
+    "options": [
+      ["A", "A. PM không có đủ nguồn lực cho dự án"],
+      [
+        "B",
+        "B. PM không tạo ra hệ thống tưởng thưởng xứng đáng cho nhân viên để nâng cao tinh thần hợp tác của họ "
+      ],
+      [
+        "C",
+        "C. PM nên có buổi họp với thủ trưởng của đội dự án khi lần đầu tiên nhân viên dự án có vấn đề "
+      ],
+      ["D", "D. PM không có gói công việc"]
+    ]
+  }
+]

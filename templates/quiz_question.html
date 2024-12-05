@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz - Chương {{ chapter }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <button class="night-mode-toggle">Chuyển chế độ</button>
+    <a href="{{ url_for('index') }}" style="display: block; margin-top: 20px;">Quay lại trang chủ</a>
+    <h1>Bài kiểm tra - Chương {{ chapter }}</h1>
+    <h2>Câu hỏi {{ question_idx + 1 }} / {{ total_questions }}</h2>
+    <p>{{ question.question }}</p>
+    <form method="POST">
+        {% for option in question.options %}
+        <input
+            type="radio"
+            name="answer"
+            value="{{ option[0] }}"
+            id="option-{{ option[0] }}"
+        />
+        <label for="option-{{ option[0] }}">{{ option[1] }}</label><br />
+        {% endfor %}
+        <button type="submit">Trả lời</button>
+    </form>
+
+    {% if is_correct is not none %}
+        {% if is_correct %}
+        <p style="color: green">{{ "Đúng!" }}</p>
+        {% else %}
+        <p style="color: red">{{ "Sai!" }}</p>
+        {% endif %}
+        <a href="{{ url_for('quiz', chapter=chapter, question_idx=next_question) }}">Câu tiếp theo</a>
+    {% endif %}
+</body>
+</html>
