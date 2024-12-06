@@ -2,7 +2,12 @@
 <html>
 <head>
     <title>Quiz - Chương {{ chapter }}</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
 </head>
 <body>
     <a href="{{ url_for('index') }}" style="display: block; margin-top: 20px;">Quay lại trang chủ</a>
