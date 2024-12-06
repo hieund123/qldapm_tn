@@ -3,10 +3,8 @@
 <head>
     <title>Quiz - Chương {{ chapter }}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
 </head>
 <body>
-    <button class="night-mode-toggle">Chuyển chế độ</button>
     <a href="{{ url_for('index') }}" style="display: block; margin-top: 20px;">Quay lại trang chủ</a>
     <h1>Bài kiểm tra - Chương {{ chapter }}</h1>
     <h2>Câu hỏi {{ question_idx + 1 }} / {{ total_questions }}</h2>

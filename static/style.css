@@ -1,27 +1,5 @@
-/* Chế độ ban ngày (mặc định) */
 body {
-    background-color: white;
-    color: black;
-}
-
-/* Chế độ ban đêm */
-body.night-mode {
     background-color: black;
     color: white;
 }
 
-/* Nút chuyển chế độ */
-.night-mode-toggle {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    padding: 10px 15px;
-    background-color: gray;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-.night-mode-toggle:hover {
-    background-color: darkgray;
-}
